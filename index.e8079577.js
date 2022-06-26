@@ -1,0 +1,2 @@
+(()=>{const e=document.querySelector("[data-about-modal-open]"),t=document.querySelector("[data-about-modal]"),a=document.querySelector("[data-about-modal-close]");e.addEventListener("click",(()=>{t.classList.toggle("is-hidden")})),a.addEventListener("click",(()=>{t.classList.toggle("is-hidden")}))})();new Swiper(".mySwiper",{pagination:{el:".swiper-pagination",clickable:!0},loop:!0,speed:1e3});
+//# sourceMappingURL=index.e8079577.js.map
